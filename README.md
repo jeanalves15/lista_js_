@@ -1,0 +1,1 @@
+Neste projeto, utilizei HTML, CSS e JavaScript para desenvolver uma lista de tarefas. Com ela, é possível adicionar novas tarefas, excluir as existentes e marcar cas que  foram concluídas. Embora pareça algo simples, fiquei muito satisfeito com a conclusão desse projeto , pois ele representa a materialização de tudo o que venho estudando nos últimos meses sobre programação web.
